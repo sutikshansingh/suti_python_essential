@@ -1,0 +1,1 @@
+# hello every one here i you will get essential python function and programe which is written by me
